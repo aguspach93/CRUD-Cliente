@@ -1,0 +1,20 @@
+{
+  "name": "crud-cliente",
+  "version": "1.0.0",
+  "description": "crud cliente",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Agustin",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/aguspach93/CRUD-Cliente.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aguspach93/CRUD-Cliente/issues"
+  },
+  "homepage": "https://github.com/aguspach93/CRUD-Cliente#readme"
+}
